@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "It's not summer without you",
+      "price": 9.36
+    },
+    {
+      "id": 2,
+      "name": "Where the Crawdads Sing",
+      "price": 9.36
+    },
+    {
+      "id": 3,
+      "name": "We'll Always Have Summer (The Summer I Turned Pretty)",
+      "price": 9.36
+    },
+    {
+      "id": 4,
+      "name": "The Summer I Turned Pretty (Summer I Turned Pretty, The)",
+      "price": 9.36
+    },
+    {
+      "id": 5,
+      "name": "It Ends with Us: A Novel (1)",
+      "price": 9.36
+    },
+    {
+      "id": 6,
+      "name": "Verity",
+      "price": 9.36
+    },
+    {
+      "id": 7,
+      "name": "Reminders of Him: A Novel",
+      "price": 9.36
+    },
+    {
+      "id": 8,
+      "name": "Gullah Geechee Home Cooking: Recipes from the Matriarch of…",
+      "price": 9.36
+    }
+  ]
+}

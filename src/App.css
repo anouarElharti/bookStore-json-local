@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Gentium+Book+Basic:ital,wght@0,700;1,400;1,700&family=Kanit:wght@400;500;700&family=Merienda:wght@700&family=Roboto:wght@400;500;700&family=Source+Sans+Pro:ital,wght@0,300;0,700;0,900;1,900&display=swap");
+
+/* font-family: 'Gentium Book Basic', serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Merienda', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Source Sans Pro', sans-serif; */
+
+body {
+  margin: 0;
+  padding: 2rem;
+  background: #fefefe;
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  align-items: center;
+  text-align: center;
+}
+p {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 700;
+  font-size: 13px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: cornflowerblue;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+}
+.logo {
+  font-family: "Kanit", sans-serif;
+  color: black;
+  font-size: 18px;
+  font-weight: 800;
+}
